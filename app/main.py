@@ -4,8 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas_market_calendars as mcal
 import pandas as pd
 
-from exchange_mappings import eze_to_pandas
-
+from app.exchange_mappings import eze_to_pandas
 from pydantic import BaseModel
 
 app = FastAPI()
