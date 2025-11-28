@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+pandas-market-calendars
+pydantic
+python-dateutil
