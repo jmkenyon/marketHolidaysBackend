@@ -1,6 +1,6 @@
 import pandas_market_calendars as mcal
 import pandas as pd
-from holidays.exchange_mappings import eze_to_pandas
+from app.holidays.exchange_mappings import eze_to_pandas
 
 
 
