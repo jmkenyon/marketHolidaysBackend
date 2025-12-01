@@ -4,3 +4,5 @@ pandas
 pandas-market-calendars
 pydantic
 python-dateutil
+grpcio
+grpcio-tools
